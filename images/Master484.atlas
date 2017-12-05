@@ -1,0 +1,27 @@
+{
+	"Master484.png":{
+		"cyan_star": [138,281,13,13],
+		"cyan_rod1": [44, 285, 9, 9],
+		"yellow_rod1": [44, 303, 9, 9],
+		"red_bomb": [273,43,17,17],
+		"chaos_bullet": [264,208,10,10],
+		"quick_bullet": [275,343,20,10],
+		"gravity_bullet": [123,47,17,17],
+		"periodic_bullet": [70, 253, 10, 10],
+		"mirror_bullet": [21, 287, 10, 6],
+		"pink_shuriken" : [429,198,23,23],
+		"green_shuriken" : [452,198,23,23],
+		"blue_shuriken" : [475,198,23,23],
+		"shuriken2" : [465, 30, 22, 22],
+		"snake" : [437, 32, 18, 18],
+		"my_pellet": [496, 36, 11, 11],
+		"blue_star" : [152, 254, 21, 21],
+		"green_star" : [173, 254, 21, 21],
+		"poison_star" : [194, 254, 21, 21],
+		"fire_star" : [215, 254, 21, 21],
+		"yellow_star": [345, 190, 13, 13],
+		"yellow_black_ball": [203, 208, 11, 11],
+		"bubble": [222,169,22,22],
+		"enemy": [122, 119, 50, 50]
+	}
+}
